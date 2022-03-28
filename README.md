@@ -11,3 +11,8 @@ Wij hebben eigenlijk alleen een Webcam nodig, javascript library en hosting. Voo
 ## Lastigste onderdeel : 
 Voor Rick lijkt Hosting het moeilijkst, gezameijk denken wij dat het torens neerzetten met behulp van de hand tracking het lastigst is, maar dit is ook een van de redenen waarom wij hiervoor hebben gekozen zodat wij ook ons veld vebreden op deze manier.
 
+## Documentatie
+16/03/2022: onderzoek gedaan naar de verschillen van phaser3 en pixieJS en welke engine verstandiger was om een game te maken.uit het onderzoek waren uit gekomen om phaser te gebruiken door dat er werd aangegeven dat pixie voor namelijk als een rendering engine gebruikt word en alle tools dat phaser er al ingebouwd heeft moet je in pixie zelf maken.
+
+22/03/2022: hebben we phaser werkende gekregen en een kleine tower defence gemaakt en uit getest.
+
