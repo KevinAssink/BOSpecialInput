@@ -15,8 +15,11 @@ Voor Rick lijkt Hosting het moeilijkst, gezameijk denken wij dat het torens neer
 16/03/2022: onderzoek gedaan naar de verschillen van phaser3 en pixieJS en welke engine verstandiger was om een game te maken. uit het onderzoek waren uit gekomen om phaser te gebruiken door dat er werd aangegeven dat pixie voor namelijk als een rendering engine gebruikt word en alle tools dat phaser er al ingebouwd heeft moet je in pixie zelf maken.
 
 22/03/2022:  phaser werkende gekregen en een kleine tower defence gemaakt en uit getest om te kijken of alles werkde.
+![towerdefencejavascript](https://user-images.githubusercontent.com/70955143/160368899-355babd2-d990-47eb-bbb7-f94c60ab1713.png)
 
 23/03/2022: code van de tower defence op github gezet.
 
 28/03/2022: webcam handtracking is werkende maar je kan nog niet een tower plaatsen.
+
+![webcamhandtracking](https://user-images.githubusercontent.com/70955143/160368844-0f9e03d5-b12f-479d-ae1c-d24800b21f9d.png)
 
