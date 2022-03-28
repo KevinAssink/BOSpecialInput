@@ -25,5 +25,7 @@ Voor Rick lijkt Hosting het moeilijkst, gezameijk denken wij dat het torens neer
 
 ## Bronnenlijst:
 https://google.github.io/mediapipe/solutions/hands
+
 https://stackoverflow.com/questions/38509629/decide-pixi-js-or-phaser
+
 https://github.com/LintangWisesa/MediaPipe-in-JavaScript
