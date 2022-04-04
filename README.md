@@ -29,3 +29,6 @@ https://google.github.io/mediapipe/solutions/hands
 https://stackoverflow.com/questions/38509629/decide-pixi-js-or-phaser
 
 https://github.com/LintangWisesa/MediaPipe-in-JavaScript
+
+## User Test:
+
