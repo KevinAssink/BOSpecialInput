@@ -38,6 +38,8 @@ we zijn van plan om de speler een ability te geven dat als de speler denkt de wa
 
 ![webcamhandtracking](https://user-images.githubusercontent.com/70955143/160368844-0f9e03d5-b12f-479d-ae1c-d24800b21f9d.png)
 
+03/04/22: research gedaan naar virtual cursor in javascript en phyton waar uit gekomen is dat phyton beter is door dat er meer documentaties er voor zijn.
+
 ## Bronnenlijst:
 https://google.github.io/mediapipe/solutions/hands
 
