@@ -40,7 +40,7 @@ we zijn van plan om de speler een ability te geven dat als de speler denkt de wa
 
 03/04/22: research gedaan naar virtual cursor in javascript en phyton waar uit gekomen is dat javascript beter is door dat we meer tutorials er voor is.
 
-11/04/22: hand tracking toegevoegd aan de base game.
+11/04/22: hand tracking toegevoegd aan de base site.
 
 ## Bronnenlijst:
 https://google.github.io/mediapipe/solutions/hands
