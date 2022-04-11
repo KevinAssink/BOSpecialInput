@@ -43,3 +43,7 @@ body {
 .cams {
   text-align: center;
 }
+.container {
+  padding: 10px;
+  text-align: center;
+}
