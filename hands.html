@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils@0.1/camera_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils@0.1/control_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils@0.2/drawing_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands@0.1/hands.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="game.html">Game</a></li>
+    <li><a class="active" href="#">Hands</a></li>
+  </ul>
+  <!-- END NAVBAR -->
+
+
+    <div class="cams">
+
+
+      <div class="first"> <!-- WEBCAM INPUT -->
+        <article>
+          <p>
+            Webcam Input
+          </p>
+          <div>
+            <video class="input_video3"></video>
+          </div> <!-- END WEBCAM INPUT -->
+        </article>
+      </div>
+
+
+      <div class="second"> <!-- MEDIAPIPE OUTPUT -->
+        <article>
+          <p>
+            Mediapipe Hands Detection
+          </p>
+          <div>
+            <canvas class="output3" width="480px" height="480px"></canvas>
+          </div>
+        </article>
+      </div>   <!-- END MEDIAPIPE OUTPUT -->
+    </div>
+
+    <div class="loading">
+      <div class="spinner"></div>
+    </div>
+  <div style="visibility: hidden;" class="control3">
+  </div>
+
+  <script type="text/javascript" src="./js/hands.js"></script>
+</body>
+</html>
